@@ -20,7 +20,7 @@ $ npm install yarn -g yarn
 Clone o projeto e acesse a pasta.
 ```zsh
 $ git https://github.com/KaioCalas/github-profile.git
-$ cd Github-Profile-API
+$ cd github-profile
 ```
 Depois de clonar, use o yarn no terminal dentro da pasta para instalar as dependências:
 ```
