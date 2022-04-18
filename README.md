@@ -3,5 +3,5 @@
 
 <h2>Tecnologias usadas: </h2>
 <ul>
-  <li><a href="https://reactjs.org/"></a></li>
+  <li><a href="https://reactjs.org/">React</a></li>
  </ul>
